@@ -9,6 +9,7 @@ build/
 CMakeFiles/
 contact-simulation/
 __pycache__
+*.egg*
 
 *.asv
 final.mat
